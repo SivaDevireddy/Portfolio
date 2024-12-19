@@ -2,6 +2,10 @@ body {
     margin: 0;
     text-align: center;
 }
+.bio {
+    width: 50%;
+    margin: 0px auto;
+}
 p {
     line-height: 2;
     font-size: 16px;
@@ -15,7 +19,7 @@ p {
 }
 .p {
     font-family: "Bebas Neue", serif;
-    font-size: 200%; 
+    font-size: 150%; 
     margin-bottom: 100px;
     color: #7fceae;
 }
@@ -30,7 +34,7 @@ hr {
     border: dotted;
     border-bottom: none;
     border-width: 5px;
-    color: rgb(169, 165, 165); 
+    color: rgb(169, 165, 165);
     margin: 50px auto;
 }
 .top-container {
@@ -45,13 +49,13 @@ hr {
 }
 .bottom-cloud {
     position: absolute;
-    left: 17%;
-    bottom: 45%;
+    left: 14%;
+    bottom: 44%;
 }
 .top-cloud {
     position: absolute;
-    top: 18%;
-    right: 20%;
+    top: 10%;
+    right: 18%;
 }
 .profile {
     width: 40%;
@@ -110,4 +114,8 @@ a:hover {
 }
 .copy-right {
     color: rgba(255, 255, 255, 0.933);
+}
+.end {
+    width: 50%;
+    margin: 0px auto;
 }
